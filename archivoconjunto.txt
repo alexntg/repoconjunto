@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola, soy Alex.
+=======
+Hola soy Martín.
+>>>>>>> 4e9e686842d8df75323c69449771e78e28fa606a
